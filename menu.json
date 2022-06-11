@@ -1,12 +1,16 @@
 [
     {
-        "language": "Telugu",
-        "url": "telugu url",
+        "language": "తెలుగు పాటలు",
+        "english_caption": "Telugu Songs",
+        "url": "https://raw.githubusercontent.com/SHALOM-PAUL/songs-backend/master/telugu.json",
+        "logo_text": "తె",
         "visibility": true
     },
     {
-        "language": "English",
-        "url": "English url",
+        "language": "English Songs",
+        "english_caption": "English Songs",
+        "url": "https://raw.githubusercontent.com/SHALOM-PAUL/songs-backend/master/english.json",
+        "logo_text": "E",
         "visibility": true
     }
 ]
